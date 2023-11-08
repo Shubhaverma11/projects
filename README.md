@@ -1,4 +1,4 @@
-projects1.	Sales Analytics in AI Variant from EXCELR
+Projects1.	Sales Analytics in AI Variant from EXCELR
 Duration: 15th March 2023 to 15th May 2023
 Tools used: Excel, Power BI, Tableau, MySQL
 •	Comprehensive project involving a Brazilian e-commerce platform aimed at connecting businesses with customers across Brazil. Project pivotal role in leveraging data analysis including EDA, data modelling, identify trends and patterns, predictive analytics to enhance the overall performance of the platform. 
